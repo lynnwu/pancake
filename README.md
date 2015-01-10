@@ -1,1 +1,1 @@
-pancake is the best breakfast
+pancake makes the best breakfast
