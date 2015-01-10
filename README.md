@@ -9,3 +9,5 @@ git push
 git pull
 
 git status
+
+after a file is edited: git commit -a (commit all)
