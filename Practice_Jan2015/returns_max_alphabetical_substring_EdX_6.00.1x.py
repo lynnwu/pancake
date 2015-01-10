@@ -1,5 +1,5 @@
-print ("Give me a string and I will find the longest string that contain letters in alphabetical order.")
-s = raw_input()
+# print ("Give me a string and I will find the longest string that contain letters in alphabetical order.")
+s = "acdbw"
 
 count=1
 i=0
